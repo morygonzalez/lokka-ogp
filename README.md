@@ -1,4 +1,4 @@
-lokka-twitter_card
+Lokka OGP
 ==================
 
-Twitter Card Plugin for Lokka (CMS for cloud)
+Open Graph protocol Plugin for Lokka (CMS for cloud), which also supports Twitter Card.
